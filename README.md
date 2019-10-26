@@ -1,2 +1,2 @@
 # ParkingLot
-please add the deleted file.
+please add the deleted files.
